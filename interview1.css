@@ -28,7 +28,7 @@ body {
     width:100vw;
 }
 .text {
-    max-width:35vw;
+    width:30vw;
     display:grid;
     margin:auto;
     margin-top:50px;
@@ -67,7 +67,7 @@ h2 {
     width:5vw;
     position:absolute;
     left:70px;
-    font-size:6.5em;
+    font-size:5.5em;
     color:#72A0C1;
     letter-spacing:3px;
     text-align:right;
