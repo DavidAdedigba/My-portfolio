@@ -28,7 +28,7 @@ body {
     width:100vw;
 }
 .text {
-    font-size:1.4em;
+    font-size:1.1rem;
    /*  display:grid; */
     margin:auto;
     margin-top:50px;
@@ -81,7 +81,7 @@ h2 {
     width:40vw;
     position:relative;
     top:135px;
-    left:65px;
+    left:40px;
     color:#00416a;
     font-weight:bold;
     font-size:1.3em;
