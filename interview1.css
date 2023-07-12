@@ -28,7 +28,7 @@ body {
     width:100vw;
 }
 .text {
-    width:30vw;
+    font-size:1.3em;
     display:grid;
     margin:auto;
     margin-top:50px;
