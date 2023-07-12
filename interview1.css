@@ -80,11 +80,11 @@ h2 {
 #about-paragraph {
     width:40vw;
     position:relative;
-    top:135px;
-    left:40px;
+    top:115px;
+    left:35px;
     color:#00416a;
     font-weight:bold;
-    font-size:1.3em;
+    font-size:1.2rem;
     text-align:center;
 }
 #about-paragraph:hover {
