@@ -66,7 +66,7 @@ h1:hover{
 h2 {
     width:5vw;
     position:absolute;
-    left:26px;
+    left:22px;
     font-size:5.5em;
     color:#72A0C1;
     letter-spacing:3px;
@@ -101,9 +101,9 @@ h2 {
 }
 
 #about-text{
-    font-size:1.1rem;
+    font-size:0.9rem;
     width:50vw;
-    height:30vw;
+    height:25vw;
     margin-top:200px;
 }
 
